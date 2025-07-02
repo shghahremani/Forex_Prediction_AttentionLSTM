@@ -13,7 +13,7 @@ This repository provides the implementation for our paper:
 
 ## 📌 Abstract
 
-We introduce **ALFA**, a novel deep learning model combining LSTM with an attention mechanism to forecast foreign exchange (Forex) rates. The attention module enables the model to focus on the most relevant temporal patterns, significantly improving predictive accuracy compared to baseline models like GRU, Bi-LSTM, TCN, and Transformer.
+We introduce **ALFA**, a novel deep learning model combining LSTM with an attention mechanism to predict foreign exchange (Forex) rates. The attention module enables the model to focus on the most relevant temporal patterns, significantly improving predictive accuracy compared to baseline models like GRU, Bi-LSTM, TCN, and Transformer.
 
 ---
 
