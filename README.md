@@ -128,4 +128,4 @@ pip install -r requirements.txt
 ## 📜 License
 
 MIT License.  
-© 2025 Shahram Ghahremani & Uyen Trang Nguyen
+© 2025 Shahram Ghahremani
