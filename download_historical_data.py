@@ -9,8 +9,8 @@ from datetime import datetime
 import MetaTrader5 as mt5  # Make sure you have the MetaTrader5
 # Alpha Vantage API parameters
 # MetaTrader account credentials
-account = 5032862937  # Replace with your MetaTrader account number
-password = "@xKm8fZw"  # Replace with your MetaTrader account password
+account = xxxxxxx  # Replace with your MetaTrader account number
+password = "@xxxxxx"  # Replace with your MetaTrader account password
 server = "MetaQuotes-Demo"  # Replace with your MetaTrader server name
 
 # Connect to the MetaTrader terminal
