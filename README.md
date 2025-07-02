@@ -89,7 +89,7 @@ This will:
 .
 ├── download_historical_data.py      # Downloads Forex data via MetaTrader5
 ├── Training_Regression.py           # Trains RNN models
-├── Evalution_hourly_for_paper.py    # Evaluates trained models
+├── Evalution.py    # Evaluates trained models
 ├── common_variables.py              # Global config (seed, batch size, paths)
 ├── models/                          # Saved model checkpoints
 ├── results/                         # Evaluation results
