@@ -1,0 +1,9 @@
+tensorflow>=2.0
+keras
+pandas
+numpy
+scikit-learn
+ta
+MetaTrader5
+joblib
+matplotlib
